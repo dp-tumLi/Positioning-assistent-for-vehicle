@@ -1,7 +1,7 @@
 # Positioning-assistent-for-vehicle
 Dieses Modell besteht aus dem Simulink-Modell (Fahrzeugmodell)
 und die function-Komponenten in m.file
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%\n
 List der m.file:
 Fahrdynamik.m *
 TestenBezier.m 
